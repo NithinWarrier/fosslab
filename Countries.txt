@@ -1,0 +1,38 @@
+
+Afghanistan       Kabul
+Albania           Tirana
+Algeria           Algiers
+Andorra           Andorra la Vella
+Angola            Luanda
+Argentina         Buenos Aires
+Armenia           Yerevan
+Australia         Canberra
+Austria           Vienna
+Azerbaijan        Baku
+The Bahamas       Nassau
+Bahrain           Manama
+Bangladesh        Dhaka
+Barbados          Bridgetown
+Belarus           Minsk
+Belgium           Brussels
+Belize            Belmopan
+Benin             Porto-Novo
+Bhutan            Thimphu
+Bolivia           La Paz, Sucre
+Botswana          Gaborone
+Brazil            Brasilia
+Brunei            Bandar Seri Begawan
+Bulgaria          Sofia
+Burkina Faso      Ouagadougou
+Burundi           Bujumbura
+Cambodia          Phnom Penh
+Cameroon          Yaounde
+Canada            Ottawa
+Cape Verde        Praia
+Chad              N'Djamena
+Chile             Santiago
+China             Beijing
+Colombia          Bogota
+Comoros           Moroni
+
+
